@@ -1,0 +1,42 @@
+body {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+#main {
+    position: absolute;
+    width: 626px;
+    height: 486px;
+    left: 199px;
+    top: 64px;
+    bottom: 64px;
+}
+
+h1 {
+    
+    font-style: normal;
+    font-size: 32px;
+    color: #3F3D56;
+}
+
+p {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-size: 15px;
+    color: #828282;
+}
+
+a {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 147.68%;
+    text-align: center;
+}
+
+#waves {
+    position: fixed;
+    bottom: 0px;
+}
